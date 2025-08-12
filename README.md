@@ -1,17 +1,17 @@
-# Coursera: HTML, CSS and Javascript for Web Developers
-## Example Source Code
-This repository contains all of the example source code used in the Coursera.org course called
-[HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
+# Module 5 Solution – Coursera Web Development Course
 
-[Enroll now! It's free!](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+This project is part of the Module 5 assignment for the [HTML, CSS, and JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course on Coursera.
 
+## 🚀 Project Overview
 
-## Frequently Asked Questions
-Please check our FAQ to see if a question you want to ask on the forums has been answered already. Here is the link to the FAQ:
+The goal of this assignment is to build a dynamic home page that loads a random menu category using JavaScript and AJAX. The project uses:
 
-[Frequently Asked Questions](FAQ.md)
+- HTML for structure
+- CSS for styling
+- JavaScript for dynamic behavior
+- GitHub Pages for deployment
 
-## Customer Website Launched
-As part of this course we developed a *real* website for a *real* client. Below is a link to the final product. (*Note*, the site is left without speed optimization to keep it exactly as it was in the course. Site optimization wasn't part of the course).
+## 📁 Folder Structure
+Module5-solution/ ├── index.html ├── css/ │   └── styles.css ├── js/ │   └── script.js ├── images/ │  
 
-[David Chu's China Bistro Restaurant in Baltimore, MD](http://www.davidchuschinabistro.com/)
+#Author HamzaDev92
