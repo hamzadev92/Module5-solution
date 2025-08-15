@@ -12,6 +12,11 @@ The goal of this assignment is to build a dynamic home page that loads a random 
 - GitHub Pages for deployment
 
 ## 📁 Folder Structure
-Module5-solution/ ├── index.html ├── css/ │   └── styles.css ├── js/ │   └── script.js ├── images/ │  
-
+Files Included
+index.html
+css
+style.css
+js
+script.js
+images
 #Author HamzaDev92
